@@ -60,12 +60,12 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Android性能优化典范 - 第2季](http://hukai.me/android-performance-patterns-season-2/)
 
 ### 内存泄露
+* [Managing Your App's Memory](https://developer.android.com/training/articles/memory.html)
+* [Avoiding memory leaks](http://android-developers.blogspot.jp/2009/01/avoiding-memory-leaks.html)
 * [How to Leak a Context: Handlers & Inner Classes](http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html)
 * [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html)
-
 * [Android Performance Case Study](http://www.curious-creature.com/2012/12/01/android-performance-case-study/)
 * [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
-* [Avoiding memory leaks](http://android-developers.blogspot.jp/2009/01/avoiding-memory-leaks.html)
 
 ### 缓存
 * [Displaying Bitmaps Efficiently](http://developer.android.com/training/displaying-bitmaps/index.html) *[[中文版--郭霖译](http://blog.csdn.net/guolin_blog/article/details/9316683)]*
