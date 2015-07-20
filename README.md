@@ -216,6 +216,10 @@ library for Android
 ### [Glide](https://github.com/bumptech/glide)
 * [Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 
+### [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+* [Android-Universal-Image-Loader Wiki](https://github.com/nostra13/Android-Universal-Image-Loader/wiki)
+* [Android Universal Image Loader 源码分析](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
+
 ### [EventBus](https://github.com/greenrobot/EventBus)
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
 * [Why you should avoid using an event bus](http://endlesswhileloop.com/blog/2015/06/11/stop-using-event-buses/)
