@@ -283,13 +283,14 @@ library for Android
 * [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34)
 * [Android: Requesting root access in your app](http://www.stealthcopter.com/blog/2010/01/android-requesting-root-access-in-your-app/)
 
-## MVP
+## Architecting(MVC,MVP,MVVM)
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
 * [TED MOSBY - SOFTWARE ARCHITECT](http://hannesdorfmann.com/android/mosby/)
 * [STINSON'S PLAYBOOK FOR MOSBY](http://hannesdorfmann.com/android/mosby-playbook/)
 * [Introduction to Model-View-Presenter on Android](http://konmik.github.io/introduction-to-model-view-presenter-on-android.html)
 * [一种在android中实现MVP模式的新思路](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF) **[[英文原版](http://blog.cainwong.com/android-mvp-an-alternate-approach/)]**
 * [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+* [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 * [MVPR: A FLEXIBLE, TESTABLE ARCHITECTURE FOR ANDROID (PT. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
 
 ## Android Studio/开发工具/AS插件
