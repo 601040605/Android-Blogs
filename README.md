@@ -79,6 +79,8 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Performance Tips](http://developer.android.com/training/articles/perf-tips.html)
 
 ## ListView/RecyclerView/GridView（Android开发重中之重）
+* [Android ListView工作原理完全解析，带你从源码的角度彻底理解](http://blog.csdn.net/guolin_blog/article/details/44996879)
+
 ### Cyril Mottier - ListView Tips & Tricks 
 * [ListView Tips & Tricks #1: Handling Emptiness](http://cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/)
 * [ListView Tips & Tricks #2: Sectioning Your ListView](http://cyrilmottier.com/2011/07/05/listview-tips-tricks-2-section-your-listview/)
@@ -224,6 +226,9 @@ library for Android
 * [Android-Universal-Image-Loader Wiki](https://github.com/nostra13/Android-Universal-Image-Loader/wiki)
 * [Android Universal Image Loader 源码分析](http://codekk.com/open-source-project-analysis/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 
+### [OkHTTP](https://github.com/square/okhttp)
+* [Android Networking I: OkHttp, Volley and Gson](https://medium.com/@sotti/android-networking-i-okhttp-volley-and-gson-72004efff196) *[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0720/3209.html)]
+
 ### [EventBus](https://github.com/greenrobot/EventBus)
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
 * [Why you should avoid using an event bus](http://endlesswhileloop.com/blog/2015/06/11/stop-using-event-buses/)
@@ -241,6 +246,10 @@ library for Android
 ### [Realm](https://realm.io/)
 * [Realm Java 0.80.3](https://realm.io/docs/java/latest/) -- Realm英文文档(Java)
 * [Realm中文文档](http://randy.party/2014/10/17/realm-doc-in-chinese.html)
+
+### [greenDao](https://github.com/greenrobot/greenDAO)
+* [greenDao官方文档](http://greendao-orm.com/)
+* [ORM 框架之 greenDAO 使用心得](http://itangqi.me/android/using-greendao-experience/)
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -- 什么是响应式编程(Reactive Programming)
@@ -290,6 +299,7 @@ library for Android
 * [Parcelable vs Serializable](http://www.developerphil.com/parcelable-vs-serializable/)
 * [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34)
 * [Android: Requesting root access in your app](http://www.stealthcopter.com/blog/2010/01/android-requesting-root-access-in-your-app/)
+* [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
 
 ## Architecting(MVC,MVP,MVVM)
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
@@ -300,7 +310,7 @@ library for Android
 * [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 * [MVPR: A FLEXIBLE, TESTABLE ARCHITECTURE FOR ANDROID (PT. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
-* [Android Databinding: Goodbye Presenter, hello ViewModel! ](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
+* [Android Databinding: Goodbye Presenter, hello ViewModel! ](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/) [[中文版](http://www.jianshu.com/p/4e3220a580f6)]
 
 ## Android Studio/开发工具/AS插件
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
@@ -319,6 +329,8 @@ library for Android
 	* [Android Studio Tips Of the Day - Roundup #6](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 * [The Top 8 Plugins for Android Studio](http://www.sitepoint.com/top-8-plugins-android-studio/)
 * [Squeezing your Gradle builds](http://saulmm.github.io/squeezing-gradle-builds/)
+* [Android Studio使用技巧系列教程](http://blog.csdn.net/gfbgl/article/category/5609255)
+* [使用Android lint发现并解决高版本API问题](http://droidyue.com/blog/2015/07/25/use-android-lint-to-find-higher-api-usage/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
