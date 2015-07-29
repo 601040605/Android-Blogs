@@ -97,6 +97,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 
 ### Drag and Swipe
 * [Drag and Swipe with RecyclerView](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)
+* [Drag and Swipe with RecyclerView](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-6a6f0c422efd) *(注:与上篇标题相同，内容不同)*
 
 ### Adapter
 * [Using an ArrayAdapter with ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView)
@@ -124,6 +125,8 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
 * [TIPS AND TRICKS FOR ANDROID MATERIAL SUPPORT LIBRARY](http://code.hootsuite.com/tips-and-tricks-for-android-material-support-library/)
 * [TIPS AND TRICKS FOR ANDROID MATERIAL SUPPORT LIBRARY 2: ELECTRIC BOOGALOO](http://code.hootsuite.com/tips-and-tricks-for-android-material-support-library-2-electric-boogaloo/)
+* [Overview of the Android Design Support Library](http://code.tutsplus.com/articles/overview-of-the-android-design-support-library--cms-24234)
+* [InstaMaterial meets Design Support Library](http://frogermcs.github.io/instamaterial-meets-design-support-library/)
 
 ### Beautiful UI Widget
 * [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
@@ -215,6 +218,7 @@ library for Android
 
 ### [Glide](https://github.com/bumptech/glide)
 * [Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
+* [Glide – How Yelp’s Android App Loads Images](http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html)
 
 ### [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 * [Android-Universal-Image-Loader Wiki](https://github.com/nostra13/Android-Universal-Image-Loader/wiki)
@@ -296,6 +300,7 @@ library for Android
 * [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
 * [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 * [MVPR: A FLEXIBLE, TESTABLE ARCHITECTURE FOR ANDROID (PT. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
+* [Android Databinding: Goodbye Presenter, hello ViewModel! ](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 
 ## Android Studio/开发工具/AS插件
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
@@ -313,6 +318,7 @@ library for Android
 	* [Android Studio Tips Of the Day - Roundup #5](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
 	* [Android Studio Tips Of the Day - Roundup #6](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 * [The Top 8 Plugins for Android Studio](http://www.sitepoint.com/top-8-plugins-android-studio/)
+* [Squeezing your Gradle builds](http://saulmm.github.io/squeezing-gradle-builds/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
