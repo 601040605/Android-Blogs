@@ -1,5 +1,5 @@
 # Android-Blogs
-Android开发相关的博客、文章、教程
+Android开发相关的博客、文章、教程	
 
 ## 官方Blog
 名称 | Blog地址 | 说明
@@ -119,6 +119,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
+* [Expand a RecyclerView in Four Steps](https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/)
 
 ## UI
 ### Design Support Library
@@ -129,6 +130,9 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [TIPS AND TRICKS FOR ANDROID MATERIAL SUPPORT LIBRARY 2: ELECTRIC BOOGALOO](http://code.hootsuite.com/tips-and-tricks-for-android-material-support-library-2-electric-boogaloo/)
 * [Overview of the Android Design Support Library](http://code.tutsplus.com/articles/overview-of-the-android-design-support-library--cms-24234)
 * [InstaMaterial meets Design Support Library](http://frogermcs.github.io/instamaterial-meets-design-support-library/)
+
+### Animation
+* [Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)
 
 ### Beautiful UI Widget
 * [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
@@ -165,6 +169,7 @@ library for Android
 * [Probably be the best way (?) to save/restore Android Fragment’s state so far](http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en) *注：作者认为该方法存在很多问题，建议阅读下篇博文*
 * [The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated)](http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
 * [How to make onActivityResult get called on Nested Fragment](http://inthecheesefactory.com/blog/how-to-fix-nested-fragment-onactivityresult-issue/en)
+* [ViewPager Without Fragments](https://www.bignerdranch.com/blog/viewpager-without-fragments/)
 
 ## Services
 * [Services](http://developer.android.com/guide/components/services.html)
@@ -270,6 +275,8 @@ library for Android
 * [Replace AsyncTask and AsyncTaskLoader with rx.Observable – RxJava Android Patterns](http://stablekernel.com/blog/replace-asynctask-asynctaskloader-rx-observable-rxjava-android-patterns/)
 * [RxJava Observable tranformation: concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/)
 * [Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4&feature=youtu.be) -- YouTube视频教程
+* [RxJava Code Review Part 1](http://artemzin.com/blog/rxjava-code-review-part-1/)
+* [A Note About the Warmth of the Share and Replay Operators](http://blog.kaush.co/2015/07/11/a-note-about-the-warmth-share-operator/)
 
 ### [Dagger](https://github.com/square/dagger)
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
@@ -283,6 +290,8 @@ library for Android
 * [Parameterized testing with Robolectric](http://www.jayway.com/2015/03/19/parameterized-testing-with-robolectric/)
 * [Android Tools Project Site -- Unit testing support](https://sites.google.com/a/android.com/tools/tech-docs/unit-testing-support)
 * [Reliable API testing for Android with Retrofit and Mockito](http://www.mdswanson.com/blog/2013/12/16/reliable-android-http-testing-with-retrofit-and-mockito.html)
+* [Using Espresso for Easy UI Testing](http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/)
+* [Activity测试](http://www.devtf.cn/?p=979)
 
 ## Thread/Process
 * [A journey on the Android Main Thread - PSVM](https://corner.squareup.com/2013/10/android-main-thread-1.html)
@@ -300,6 +309,7 @@ library for Android
 * [How to debug HTTP(S) traffic on Android](https://medium.com/@rotxed/how-to-debug-http-s-traffic-on-android-7fbe5d2a34)
 * [Android: Requesting root access in your app](http://www.stealthcopter.com/blog/2010/01/android-requesting-root-access-in-your-app/)
 * [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
+* [Wutson: Exploring Design And Development Workflows](http://novoda.com/blog/londroid-wutson/)
 
 ## Architecting(MVC,MVP,MVVM)
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
@@ -311,8 +321,9 @@ library for Android
 * [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 * [MVPR: A FLEXIBLE, TESTABLE ARCHITECTURE FOR ANDROID (PT. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
 * [Android Databinding: Goodbye Presenter, hello ViewModel! ](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/) [[中文版](http://www.jianshu.com/p/4e3220a580f6)]
+* [Flux Architecture on Android](http://lgvalle.github.io/2015/08/04/flux-architecture/)
 
-## Android Studio/开发工具/AS插件
+## Android Studio/开发工具/AS插件/Gradle
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
 * [搜索最好的 Android 代码——Android开发工具之Codota](http://www.imooc.com/article/1086)
 * [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/)
@@ -331,6 +342,8 @@ library for Android
 * [Squeezing your Gradle builds](http://saulmm.github.io/squeezing-gradle-builds/)
 * [Android Studio使用技巧系列教程](http://blog.csdn.net/gfbgl/article/category/5609255)
 * [使用Android lint发现并解决高版本API问题](http://droidyue.com/blog/2015/07/25/use-android-lint-to-find-higher-api-usage/)
+* [A private Maven repository for Android in 30 min](https://jeroenmols.github.io/blog/2015/08/06/artifactory/) **Artifactory**
+* [Android项目中如何用好构建神器Gradle？](http://www.csdn.net/article/2015-08-10/2825420/2)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
