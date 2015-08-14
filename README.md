@@ -12,7 +12,7 @@ Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) 
 [Styling Android](https://blog.stylingandroid.com/) | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design实现
 Big Nerd Ranch | [https://www.bignerdranch.com/blog/categories/android/](https://www.bignerdranch.com/blog/categories/android/) | 他们所写的培训教程非常有名
 Square | [https://corner.squareup.com/](https://corner.squareup.com/) | 良心企业
-FaceBook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
+Facebook | [https://code.facebook.com/android/](https://code.facebook.com/android/) | 良心企业
 Vogella | [http://blog.vogella.com/category/android/](http://blog.vogella.com/category/android/) | Android基础教程
 codekk | [http://www.codekk.com/open-source-project-analysis](http://www.codekk.com/open-source-project-analysis) | Trinea发起的Android开源项目分析
 Yalantis | [https://yalantis.com](https://yalantis.com) | 介绍很多酷炫动画的实现原理(Android + iOS)
