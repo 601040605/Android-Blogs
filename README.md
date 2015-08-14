@@ -165,6 +165,7 @@ library for Android
 * [How to hide/show Toolbar when list is scrolling (part 3)](https://mzgreen.github.io/2015/06/23/How-to-hideshow-Toolbar-when-list-is-scrolling%28part3%29/)
 
 ## Fragment
+* [Android Fragments Tutorial](https://newcircle.com/s/post/1250/android_fragments_tutorial)
 * [Android Fragment完全解析，关于碎片你所需知道的一切](http://blog.csdn.net/guolin_blog/article/details/8881711)
 * [Probably be the best way (?) to save/restore Android Fragment’s state so far](http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en) *注：作者认为该方法存在很多问题，建议阅读下篇博文*
 * [The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated)](http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
