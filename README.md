@@ -286,6 +286,9 @@ library for Android
 * [FlatBuffers官方文档](http://google.github.io/flatbuffers/)
 * [FlatBuffers in Android - introduction](http://frogermcs.github.io/flatbuffers-in-android-introdution/)
 
+### [Iconify](https://github.com/JoanZapata/android-iconify)
+* [Iconify just got a lot better](http://blog.joanzapata.com/iconify-just-got-a-lot-better/)
+
 ## 测试
 * [Robolectric Installation for Unit Testing](https://github.com/codepath/android_guides/wiki/Robolectric-Installation-for-Unit-Testing)
 * [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
