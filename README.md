@@ -282,6 +282,10 @@ library for Android
 ### [Dagger](https://github.com/square/dagger)
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
 
+### [FlatBuffers](https://github.com/google/flatbuffers)
+* [FlatBuffers官方文档](http://google.github.io/flatbuffers/)
+* [FlatBuffers in Android - introduction](http://frogermcs.github.io/flatbuffers-in-android-introdution/)
+
 ## 测试
 * [Robolectric Installation for Unit Testing](https://github.com/codepath/android_guides/wiki/Robolectric-Installation-for-Unit-Testing)
 * [用Robolectric来做Android unit testing](http://segmentfault.com/a/1190000002904944)
