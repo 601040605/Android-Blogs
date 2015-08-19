@@ -143,6 +143,7 @@ library for Android
 
 ### Custom View/ViewGroup
 * [Creating Custom Views -- Android官方Training](http://developer.android.com/training/custom-views/index.html)
+* [Custom Components](http://developer.android.com/intl/zh-cn/guide/topics/ui/custom-components.html)
 * [Defining Custom Views](https://github.com/codepath/android_guides/wiki/Defining-Custom-Views)
 * [Android LayoutInflater原理分析，带你一步步深入了解View(一)](http://blog.csdn.net/guolin_blog/article/details/12921889)
 * [Android视图绘制流程完全解析，带你一步步深入了解View(二)](http://blog.csdn.net/guolin_blog/article/details/16330267)
