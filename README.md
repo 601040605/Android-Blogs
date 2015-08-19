@@ -186,13 +186,6 @@ library for Android
 ## Notification
 * [Notifications](https://guides.codepath.com/android/Notifications)
 
-## Gradle
-* [Gradle tip #1: tasks](http://trickyandroid.com/gradle-tip-1-tasks/)
-* [Gradle tip #2: understanding syntax](http://trickyandroid.com/gradle-tip-2-understanding-syntax/)
-* [Android Studio系列教程四--Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
-* [Android Studio系列教程五--Gradle命令详解与导入第三方包](http://stormzhang.com/devtools/2015/01/05/android-studio-tutorial5/)
-* [Android Studio系列教程六--Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
-
 ## Hacky (小技巧)
 * [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
 * [Android EditText的使用及值得注意的地方](http://www.jianshu.com/p/1f05bb1fde3e)
@@ -354,6 +347,11 @@ library for Android
 * [使用Android lint发现并解决高版本API问题](http://droidyue.com/blog/2015/07/25/use-android-lint-to-find-higher-api-usage/)
 * [A private Maven repository for Android in 30 min](https://jeroenmols.github.io/blog/2015/08/06/artifactory/) **Artifactory**
 * [Android项目中如何用好构建神器Gradle？](http://www.csdn.net/article/2015-08-10/2825420/2)
+* [Gradle tip #1: tasks](http://trickyandroid.com/gradle-tip-1-tasks/)
+* [Gradle tip #2: understanding syntax](http://trickyandroid.com/gradle-tip-2-understanding-syntax/)
+* [Android Studio系列教程四--Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
+* [Android Studio系列教程五--Gradle命令详解与导入第三方包](http://stormzhang.com/devtools/2015/01/05/android-studio-tutorial5/)
+* [Android Studio系列教程六--Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
