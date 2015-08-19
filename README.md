@@ -329,7 +329,7 @@ library for Android
 * [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
 * [MVPR: A FLEXIBLE, TESTABLE ARCHITECTURE FOR ANDROID (PT. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
 * [Android Databinding: Goodbye Presenter, hello ViewModel! ](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/) [[中文版](http://www.jianshu.com/p/4e3220a580f6)]
-* [Flux Architecture on Android](http://lgvalle.github.io/2015/08/04/flux-architecture/)
+* [Flux Architecture on Android](http://lgvalle.github.io/2015/08/04/flux-architecture/) **[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0816/3311.html)]**
 
 ## Android Studio/开发工具/AS插件/Gradle
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
