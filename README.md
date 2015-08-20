@@ -356,6 +356,7 @@ library for Android
 * [Android Studio系列教程四--Gradle基础](http://stormzhang.com/devtools/2014/12/18/android-studio-tutorial4/)
 * [Android Studio系列教程五--Gradle命令详解与导入第三方包](http://stormzhang.com/devtools/2015/01/05/android-studio-tutorial5/)
 * [Android Studio系列教程六--Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
+* [Android Studio - MAC 版 - 快捷键详解](http://blog.csdn.net/shulianghan/article/details/47321177)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
