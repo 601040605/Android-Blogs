@@ -386,4 +386,5 @@ library for Android
 * [IPackageStatsObserver cannot be resolved to a type (Android)](http://stackoverflow.com/a/30278018)
 * [Calling startActivity() from outside of an Activity context](http://stackoverflow.com/a/3918838)
 * [Using DiskLruCache in android 4.0 does not provide for openCache method](http://stackoverflow.com/a/10235381/4470672)
+* [Formula px to dp, dp to px android](http://stackoverflow.com/a/17410076/4470672)
 
