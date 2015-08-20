@@ -203,6 +203,7 @@ library for Android
 * [Fast Rendering News Feed on Android](https://code.facebook.com/posts/879498888759525/fast-rendering-news-feed-on-android/?pnref=story)
 * [Cool Android Apis 整理（一）](http://oakzmm.com/2015/08/04/cool-Android-api/)
 * [Cool Android Apis 整理（二）](http://oakzmm.com/2015/08/11/cool-Android-api-2/)
+* [Android快速开发系列 10个常用工具类](http://android.jobbole.com/80826/)
 
 ## 开发框架
 ### [Retrofit](https://github.com/square/retrofit)
