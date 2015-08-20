@@ -60,6 +60,9 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Android性能优化之内存篇](http://hukai.me/android-performance-memory/)
 * [Android性能优化之电量篇](http://hukai.me/android-performance-battery/)
 * [Android性能优化典范 - 第2季](http://hukai.me/android-performance-patterns-season-2/)
+* [Android性能优化典范（三）[1-3]](http://www.csdn.net/article/2015-08-12/2825447-android-performance-patterns-season-3/1)
+* [Android性能优化典范（三）[4-7]](http://www.csdn.net/article/2015-08-12/2825447-android-performance-patterns-season-3/2)
+* [Android性能优化典范（三）[8-12]](http://www.csdn.net/article/2015-08-12/2825447-android-performance-patterns-season-3/3)
 
 ### 内存泄露
 * [Managing Your App's Memory](https://developer.android.com/training/articles/memory.html)
