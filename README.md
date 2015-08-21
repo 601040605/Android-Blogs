@@ -386,6 +386,7 @@ library for Android
 
 ## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
 * [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
+* [Formula px to dp, dp to px android](http://stackoverflow.com/a/17410076/4470672)
 * [Close/hide the Android Soft Keyboard](http://stackoverflow.com/a/1109108/4470672)
 * [Saving Activity state in Android](http://stackoverflow.com/questions/151777/saving-activity-state-in-android)
 * [Get screen dimensions in pixels](http://stackoverflow.com/a/1016941/4470672)
@@ -394,5 +395,4 @@ library for Android
 * [IPackageStatsObserver cannot be resolved to a type (Android)](http://stackoverflow.com/a/30278018)
 * [Calling startActivity() from outside of an Activity context](http://stackoverflow.com/a/3918838)
 * [Using DiskLruCache in android 4.0 does not provide for openCache method](http://stackoverflow.com/a/10235381/4470672)
-* [Formula px to dp, dp to px android](http://stackoverflow.com/a/17410076/4470672)
-
+* [Same-named attributes in attrs.xml for custom view](http://stackoverflow.com/a/4464966/4470672)
