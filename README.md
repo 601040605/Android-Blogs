@@ -41,6 +41,9 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 [stormzhang](https://github.com/stormzhang) | [http://stormzhang.com/](http://stormzhang.com/) | 经常混迹知乎、GitHub
 郭霖 | [郭霖的专栏](http://blog.csdn.net/guolin_blog) | CSDN 博客之星, 《第一行代码》作者
 
+## Book
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+
 ## 性能优化
 ### Developing for Android
 * [Developing for Android, I:Understanding the Mobile Context](https://medium.com/google-developers/developing-for-android-i-understanding-the-mobile-context-fd2351b131f8)
