@@ -162,6 +162,9 @@ library for Android
 * [How We Developed the Guillotine Menu Animation for Android](https://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/) -- 如何实现铡刀菜单动画?
 * [Android Canvas drawText实现中文垂直居中](http://blog.csdn.net/hursing/article/details/18703599)
 
+### Layout
+* [Quick return with CoordinatorLayout](https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1)
+
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
 * [How to hide/show Toolbar when list is scroling (part 1)](http://mzgreen.github.io/2015/02/15/How-to-hideshow-Toolbar-when-list-is-scroling%28part1%29/)
