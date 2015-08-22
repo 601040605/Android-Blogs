@@ -324,6 +324,7 @@ library for Android
 * [Android: Requesting root access in your app](http://www.stealthcopter.com/blog/2010/01/android-requesting-root-access-in-your-app/)
 * [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
 * [Wutson: Exploring Design And Development Workflows](http://novoda.com/blog/londroid-wutson/)
+* [Android视频录制app解决方案汇总](https://www.zybuluo.com/lichangadd/note/148109)
 
 ## Architecting(MVC,MVP,MVVM)
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
