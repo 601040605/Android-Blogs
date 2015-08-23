@@ -388,6 +388,7 @@ library for Android
 	* [Reverse engineering android applications](http://www.technotalkative.com/part-9-reverse-engineering-android-applications/)
 	* [The Hitchhiker’s guide to Android Testing](http://www.technotalkative.com/part-10-the-hitchhikers-guide-to-android-testing/)
 * [6 THINGS I WISH I KNEW BEFORE I WROTE MY FIRST ANDROID APP](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/)
+* [Should This Be a Library?](http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/)
 
 ## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
 * [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
