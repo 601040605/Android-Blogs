@@ -112,6 +112,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 
 ### 下拉刷新
 * [我眼中的下拉刷新](http://www.liaohuqiu.net/cn/posts/the-pull-to-refresh-in-my-eyes/)
+* [Implementing Swipe to Refresh, an Android Material Design UI Pattern](https://www.bignerdranch.com/blog/implementing-swipe-to-refresh/)
 
 ### 上拉加载更多
 * [加载更多](http://cube-sdk.liaohuqiu.net/cn/load-more/)
