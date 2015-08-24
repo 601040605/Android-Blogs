@@ -123,6 +123,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Scrolling RecyclerView – Part 2](https://blog.stylingandroid.com/scrolling-recycler-view-part-2/)
 * [RecyclerView FastScroll – Part 1](https://blog.stylingandroid.com/recyclerview-fastscroll-part-1/)
 * [RecyclerView FastScroll – Part 2](https://blog.stylingandroid.com/recyclerview-fastscroll-part-2/)
+* [Android: ListView Fastscroll and its styling](http://androidopentutorials.com/android-listview-fastscroll/)
 
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
