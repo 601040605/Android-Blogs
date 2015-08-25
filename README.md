@@ -404,3 +404,4 @@ library for Android
 * [Using DiskLruCache in android 4.0 does not provide for openCache method](http://stackoverflow.com/a/10235381/4470672)
 * [Same-named attributes in attrs.xml for custom view](http://stackoverflow.com/a/4464966/4470672)
 * [How do I find out if the GPS of an Android device is enabled?](http://stackoverflow.com/a/843716/4470672)
+* [Renaming modules in Android Studio?](http://stackoverflow.com/a/27892670/4470672)
