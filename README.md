@@ -104,8 +104,8 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Building a RecyclerView LayoutManager – Part 3](http://wiresareobsolete.com/2015/02/recyclerview-layoutmanager-3/)
 
 ### Drag and Swipe
-* [Drag and Swipe with RecyclerView](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)
-* [Drag and Swipe with RecyclerView](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-6a6f0c422efd) *(注:与上篇标题相同，内容不同)*
+* [Drag and Swipe with RecyclerView Part One: Basic ItemTouchHelper Example](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf)
+* [Drag and Swipe with RecyclerView Part Two: Handles, Grids, and Custom Animations](https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-6a6f0c422efd)
 
 ### Adapter
 * [Using an ArrayAdapter with ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView)
