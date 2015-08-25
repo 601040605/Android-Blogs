@@ -183,6 +183,7 @@ library for Android
 * [The Real Best Practices to Save/Restore Activity's and Fragment's state. (StatedFragment is now deprecated)](http://inthecheesefactory.com/blog/fragment-state-saving-best-practices/en)
 * [How to make onActivityResult get called on Nested Fragment](http://inthecheesefactory.com/blog/how-to-fix-nested-fragment-onactivityresult-issue/en)
 * [ViewPager Without Fragments](https://www.bignerdranch.com/blog/viewpager-without-fragments/)
+* [让多个Fragment 切换时不重新实例化](http://www.yrom.net/blog/2013/03/10/fragment-switch-not-restart/)
 
 ## Services
 * [Services](http://developer.android.com/guide/components/services.html)
