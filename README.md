@@ -213,6 +213,7 @@ library for Android
 * [Cool Android Apis 整理（一）](http://oakzmm.com/2015/08/04/cool-Android-api/)
 * [Cool Android Apis 整理（二）](http://oakzmm.com/2015/08/11/cool-Android-api-2/)
 * [Android快速开发系列 10个常用工具类](http://android.jobbole.com/80826/)
+* [Tinting drawables](http://andraskindler.com/blog/2015/tinting_drawables/)
 
 ## 开发框架
 ### [Retrofit](https://github.com/square/retrofit)
