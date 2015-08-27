@@ -85,6 +85,9 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 ### 其他
 * [Performance Tips](http://developer.android.com/training/articles/perf-tips.html)
 
+## Application
+* [How to use the Application object of Android](http://www.intridea.com/blog/2011/5/24/how-to-use-application-object-of-android)
+
 ## ListView/RecyclerView/GridView（Android开发重中之重）
 * [Android ListView工作原理完全解析，带你从源码的角度彻底理解](http://blog.csdn.net/guolin_blog/article/details/44996879)
 
