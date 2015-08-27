@@ -74,6 +74,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Activitys, Threads, & Memory Leaks](http://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html)
 * [Android Performance Case Study](http://www.curious-creature.com/2012/12/01/android-performance-case-study/)
 * [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
+* [A small leak will sink a great ship](https://corner.squareup.com/2015/08/a-small-leak.html)
 
 ### 缓存
 * [Displaying Bitmaps Efficiently](http://developer.android.com/training/displaying-bitmaps/index.html) *[[中文版--郭霖译](http://blog.csdn.net/guolin_blog/article/details/9316683)]*
