@@ -219,6 +219,7 @@ library for Android
 * [Android快速开发系列 10个常用工具类](http://android.jobbole.com/80826/)
 * [Tinting drawables](http://andraskindler.com/blog/2015/tinting_drawables/)
 * [The truth about Preventative Optimizations](https://medium.com/google-developers/the-truth-about-preventative-optimizations-ccebadfd3eb5)
+* [Don't Interrupt the User's Flow](http://hannesdorfmann.com/android/dont-interrupt-user-flow/)
 
 ## 开发框架
 ### [Retrofit](https://github.com/square/retrofit)
