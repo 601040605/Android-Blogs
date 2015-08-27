@@ -125,6 +125,9 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [RecyclerView FastScroll – Part 2](https://blog.stylingandroid.com/recyclerview-fastscroll-part-2/)
 * [Android: ListView Fastscroll and its styling](http://androidopentutorials.com/android-listview-fastscroll/)
 
+### Sectioned
+* [SimpleSectionedRecyclerViewAdapter](https://gist.github.com/gabrielemariotti/4c189fb1124df4556058)
+
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
 * [Expand a RecyclerView in Four Steps](https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/)
@@ -214,6 +217,7 @@ library for Android
 * [Cool Android Apis 整理（二）](http://oakzmm.com/2015/08/11/cool-Android-api-2/)
 * [Android快速开发系列 10个常用工具类](http://android.jobbole.com/80826/)
 * [Tinting drawables](http://andraskindler.com/blog/2015/tinting_drawables/)
+* [The truth about Preventative Optimizations](https://medium.com/google-developers/the-truth-about-preventative-optimizations-ccebadfd3eb5)
 
 ## 开发框架
 ### [Retrofit](https://github.com/square/retrofit)
