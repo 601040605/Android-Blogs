@@ -246,6 +246,7 @@ library for Android
 ### [Glide](https://github.com/bumptech/glide)
 * [Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 * [Glide – How Yelp’s Android App Loads Images](http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html)
+* [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 
 ### [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 * [Android-Universal-Image-Loader Wiki](https://github.com/nostra13/Android-Universal-Image-Loader/wiki)
