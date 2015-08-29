@@ -148,6 +148,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 
 ### Animation
 * [Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)
+* [Android实现炫酷SVG动画效果](http://blog.csdn.net/crazy__chen/article/details/47728241)
 
 ### Beautiful UI Widget
 * [How We Developed the Guillotine Menu Animation for Android](http://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/?utm_source=github)
@@ -244,8 +245,7 @@ library for Android
 * [Fresco官方文档](http://fresco-cn.org/)
 
 ### [Glide](https://github.com/bumptech/glide)
-* [Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
-* [Glide – How Yelp’s Android App Loads Images](http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html)
+* [Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)* [Glide – How Yelp’s Android App Loads Images](http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html)
 * [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 
 ### [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
@@ -417,3 +417,4 @@ library for Android
 * [Same-named attributes in attrs.xml for custom view](http://stackoverflow.com/a/4464966/4470672)
 * [How do I find out if the GPS of an Android device is enabled?](http://stackoverflow.com/a/843716/4470672)
 * [Renaming modules in Android Studio?](http://stackoverflow.com/a/27892670/4470672)
+* [RecyclerView onItemClick](http://stackoverflow.com/a/26196831/4470672)
