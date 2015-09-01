@@ -236,6 +236,7 @@ library for Android
 * [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client/)
 * [How To Use Retrofit Library In Your Android App](http://simpledeveloper.com/how-to-use-retrofit-library-in-android/)
 * [Retrofit – Using Jackson JSON Conversion](http://kdubblabs.com/java/retrofit-by-square/retrofit-using-jackson-json-conversion/) 使用Jackson解析
+* [Simple HTTP with Retrofit 2](https://speakerdeck.com/jakewharton/simple-http-with-retrofit-2-droidcon-nyc-2015)
 
 ### [Picasso](https://github.com/square/picasso)
 * [Picasso官方文档](http://square.github.io/picasso/)
