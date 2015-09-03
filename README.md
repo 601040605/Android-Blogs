@@ -404,6 +404,7 @@ library for Android
 * [6 THINGS I WISH I KNEW BEFORE I WROTE MY FIRST ANDROID APP](http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/)
 * [Should This Be a Library?](http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/)
 * [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
+* [Develop Maintainable Apps](http://www.slideshare.net/AnnyceDavis/develop-maintainable-apps-droidcon-2015)
 
 ## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
 * [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
