@@ -255,6 +255,7 @@ library for Android
 
 ### [OkHTTP](https://github.com/square/okhttp)
 * [Android Networking I: OkHttp, Volley and Gson](https://medium.com/@sotti/android-networking-i-okhttp-volley-and-gson-72004efff196) *[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0720/3209.html)]
+* [Android OkHttp完全解析](http://blog.csdn.net/lmj623565791/article/details/47911083)
 
 ### [EventBus](https://github.com/greenrobot/EventBus)
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
