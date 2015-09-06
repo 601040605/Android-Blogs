@@ -389,6 +389,7 @@ library for Android
 * [Android Studio系列教程六--Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
 * [Android Studio - MAC 版 - 快捷键详解](http://blog.csdn.net/shulianghan/article/details/47321177)
 * [Publish with Gradle on Bitbucket](https://medium.com/@Mul0w/publish-with-gradle-on-bitbucket-1463236dc460)
+* [Vysor--Chrome的一个插件，可以做到在电脑上操作Android手机，增强生产力的神器](http://www.vysor.io/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
