@@ -412,6 +412,7 @@ library for Android
 * [Should This Be a Library?](http://ryanharter.com/blog/2015/08/20/should-this-be-a-library/)
 * [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
 * [Develop Maintainable Apps](http://www.slideshare.net/AnnyceDavis/develop-maintainable-apps-droidcon-2015)
+* [微信ANDROID客户端-会话速度提升70%的背后](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe)
 
 ## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
 * [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
