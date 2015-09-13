@@ -137,6 +137,9 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 ### Sectioned
 * [SimpleSectionedRecyclerViewAdapter](https://gist.github.com/gabrielemariotti/4c189fb1124df4556058)
 
+### Animation
+* [Layout animations on RecyclerView](http://antonioleiva.com/layout-animations-on-recyclerview/)
+
 ### 其他
 * [6 ways to make your lists scroll faster than the wind](http://leftshift.io/6-ways-to-make-your-lists-scroll-faster-than-the-wind) 提升ListView滚动速度
 * [Expand a RecyclerView in Four Steps](https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/)
