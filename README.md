@@ -417,6 +417,9 @@ library for Android
 * [Develop Maintainable Apps](http://www.slideshare.net/AnnyceDavis/develop-maintainable-apps-droidcon-2015)
 * [微信ANDROID客户端-会话速度提升70%的背后](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe)
 
+## Java
+* [Java反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
+
 ## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
 * [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
 * [Formula px to dp, dp to px android](http://stackoverflow.com/a/17410076/4470672)
