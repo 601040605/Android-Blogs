@@ -89,6 +89,7 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 
 ### 其他
 * [Performance Tips](http://developer.android.com/training/articles/perf-tips.html)
+* [Speed up your app](http://blog.udinic.com/2015/09/15/speed-up-your-app)
 
 ## Application
 * [How to use the Application object of Android](http://www.intridea.com/blog/2011/5/24/how-to-use-application-object-of-android)
