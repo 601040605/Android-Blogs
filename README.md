@@ -252,6 +252,7 @@ library for Android
 ### [Picasso](https://github.com/square/picasso)
 * [Picasso官方文档](http://square.github.io/picasso/)
 * [Solving the Android image loading problem: Volley vs. Picasso](https://www.bignerdranch.com/blog/solving-the-android-image-loading-problem-volley-vs-picasso/)
+* [Loading images with data binding and Picasso](https://medium.com/@ivanc/loading-images-with-data-binding-and-picasso-555dad683fdc)
 
 ### [Fresco](https://github.com/facebook/fresco)
 * [Fresco官方文档](http://fresco-cn.org/)
