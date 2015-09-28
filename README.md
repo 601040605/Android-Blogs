@@ -84,8 +84,8 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Android应用性能优化之使用SparseArray替代HashMap](http://liuzhichao.com/p/832.html)
 
 ### Effective Java for Android developers
-*[Effective Java for Android developers : Item 1](http://fragmentedpodcast.com/2015/08/)
-*[Effective Java for Android developers : Item 2](http://fragmentedpodcast.com/episodes/16/)
+* [Effective Java for Android developers : Item 1](http://fragmentedpodcast.com/2015/08/)
+* [Effective Java for Android developers : Item 2](http://fragmentedpodcast.com/episodes/16/)
 
 ### 其他
 * [Performance Tips](http://developer.android.com/training/articles/perf-tips.html)
