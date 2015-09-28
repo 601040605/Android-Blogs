@@ -219,6 +219,9 @@ library for Android
 ## Notification
 * [Notifications](https://guides.codepath.com/android/Notifications)
 
+## Data Binding
+* **Data Binding - Styling Android** [Part 1](https://blog.stylingandroid.com/data-binding-part-1/) [Part 2](https://blog.stylingandroid.com/data-binding-part-2/) [Part 3](https://blog.stylingandroid.com/data-binding-part-3/)
+
 ## Hacky (小技巧)
 * [使用android.view.TouchDelegate扩大View的触摸点击区域](http://blog.csdn.net/tongcpp/article/details/23450975)
 * [Android EditText的使用及值得注意的地方](http://www.jianshu.com/p/1f05bb1fde3e)
