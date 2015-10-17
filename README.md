@@ -319,6 +319,7 @@ library for Android
 * [Learning RxJava (for Android) by example](https://www.youtube.com/watch?v=k3D0cWyNno4&feature=youtu.be) -- YouTube视频教程
 * [RxJava Code Review Part 1](http://artemzin.com/blog/rxjava-code-review-part-1/)
 * [A Note About the Warmth of the Share and Replay Operators](http://blog.kaush.co/2015/07/11/a-note-about-the-warmth-share-operator/)
+* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 ### [Dagger](https://github.com/square/dagger)
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
