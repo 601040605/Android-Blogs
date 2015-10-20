@@ -87,6 +87,9 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Effective Java for Android developers : Item 1](http://fragmentedpodcast.com/2015/08/)
 * [Effective Java for Android developers : Item 2](http://fragmentedpodcast.com/episodes/16/)
 
+### 安全相关
+* [Develop a secured Android application](http://blog.octo.com/en/develop-secured-android-application/)
+
 ### 其他
 * [Performance Tips](http://developer.android.com/training/articles/perf-tips.html)
 * [Speed up your app](http://blog.udinic.com/2015/09/15/speed-up-your-app)
