@@ -434,6 +434,7 @@ library for Android
 * [谈谈App混合开发](http://bxbxbai.gitcafe.io/2015/08/16/talk-about-bybird-app/)
 * [Develop Maintainable Apps](http://www.slideshare.net/AnnyceDavis/develop-maintainable-apps-droidcon-2015)
 * [微信ANDROID客户端-会话速度提升70%的背后](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe)
+* [Modeling my Android domain layer](http://panavtec.me/modeling-my-android-domain-layer/)
 
 ## Java
 * [Java反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
