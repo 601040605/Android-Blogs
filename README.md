@@ -411,6 +411,7 @@ library for Android
 * [Publish with Gradle on Bitbucket](https://medium.com/@Mul0w/publish-with-gradle-on-bitbucket-1463236dc460)
 * [Vysor--Chrome的一个插件，可以做到在电脑上操作Android手机，增强生产力的神器](http://www.vysor.io/)
 * [Don't use dynamic versions for your dependencies](http://blog.danlew.net/2015/09/09/dont-use-dynamic-versions-for-your-dependencies/)
+* [Android Development Tidbits // No. 1](http://willowtreeapps.com/blog/android-development-tidbits-no-1/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
