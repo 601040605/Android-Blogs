@@ -380,6 +380,7 @@ library for Android
 * [Android Databinding: Goodbye Presenter, hello ViewModel! ](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/) [[中文版](http://www.jianshu.com/p/4e3220a580f6)]
 * [Flux Architecture on Android](http://lgvalle.github.io/2015/08/04/flux-architecture/) **[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0816/3311.html)]**
 * [Approaching Android with MVVM](https://medium.com/ribot-labs/approaching-android-with-mvvm-8ceec02d5442)
+* [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.7931inhi1)
 
 ## Android Studio/开发工具/AS插件/Gradle
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
