@@ -31,6 +31,7 @@ TechnoTalkative | [http://www.technotalkative.com/](http://www.technotalkative.c
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | Quora上很推崇的一个开发者，但是现在博客写的不勤了
 Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
 [Alex Lockwood](https://github.com/alexjlockwood) |[http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/) | 
+|[http://fragmentedpodcast.com/](http://fragmentedpodcast.com/)|
 
 ## 国内开发者
 名称 | Blog地址 | 说明
@@ -76,6 +77,11 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 * [Android Performance Case Study Follow-up](http://www.curious-creature.com/2015/03/25/android-performance-case-study-follow-up/)
 * [A small leak will sink a great ship](https://corner.squareup.com/2015/08/a-small-leak.html)
 * [Android内存泄露案例分析](http://www.csdn.net/article/2015-09-07/2825631)
+* [How to Analyze & Manage Memory on Android Like a Boss](https://acadgild.com/blog/analyze-manage-android-devices-memory-allocation-through-ddms-mat/)
+
+### Remedying Android’s method limit
+* [Part 1](https://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-1)
+* [Part 2](https://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-2)
 
 ### 缓存
 * [Displaying Bitmaps Efficiently](http://developer.android.com/training/displaying-bitmaps/index.html) *[[中文版--郭霖译](http://blog.csdn.net/guolin_blog/article/details/9316683)]*
@@ -90,9 +96,25 @@ Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博
 ### 安全相关
 * [Develop a secured Android application](http://blog.octo.com/en/develop-secured-android-application/)
 
+### PerfMatters
+* [PerfMatters using custom Views in Android to improve performance — Part 1](https://medium.com/android-news/prefmatters-using-custom-views-in-android-to-improve-performance-part-1-4dc9bdd75396#.16e85es8q)
+* [PerfMatters introduction to custom ViewGroups - Part 2](https://medium.com/android-news/perfmatters-introduction-to-custom-viewgroups-to-improve-performance-part-2-f14fbcd47c#.54gwv79uh)
+
+### Thread/Process
+* [A journey on the Android Main Thread - PSVM](https://corner.squareup.com/2013/10/android-main-thread-1.html)
+* [A journey on the Android Main Thread - Lifecycle bits](https://corner.squareup.com/2013/12/android-main-thread-2.html)
+* [Async Android](http://jdam.cd/async-android/)
+* [The Chronos library: making easier work of long operations](https://medium.com/redmadrobot-mobile/the-chronos-library-making-easier-work-of-long-operations-69c7e2d16946#.es6jjpyqe)
+* [Using concurrency to improve speed and performance in Android](https://medium.com/@ali.muzaffar/using-concurrency-and-speed-and-performance-on-android-d00ab4c5c8e3#.jnygzsb8u)
+
 ### 其他
 * [Performance Tips](http://developer.android.com/training/articles/perf-tips.html)
 * [Speed up your app](http://blog.udinic.com/2015/09/15/speed-up-your-app)
+* [Why You Should Care about Your Android App's Performance](http://blog.nimbledroid.com/2015/09/03/why-you-should-care-about-app-performance.html)
+* [How to Make Your Application Fluid](http://blog.nimbledroid.com/2015/09/17/how-to-make-your-application-fluid.html)
+* [Optimizing Android bytecode with Redex](https://code.facebook.com/posts/1480969635539475?refid=8&_ft_=qid.6200742327944805904:mf_story_key.6249203789055394671:eligibleForSeeFirstBumping.1&__tn__=H)
+* [Using hardware layers to improve Android animation performance](http://blog.danlew.net/2015/10/20/using-hardware-layers-to-improve-animation-performance/)
+* [Tip: Use cold start time to make your app look much faster](https://plus.google.com/105148560373589648355/posts/V3Tp6xxUWHH)
 
 ## Application
 * [How to use the Application object of Android](http://www.intridea.com/blog/2011/5/24/how-to-use-application-object-of-android)
@@ -186,12 +208,27 @@ library for Android
 * [Custom Drawables](http://ryanharter.com/blog/2015/04/03/custom-drawables/)
 * [How We Developed the Guillotine Menu Animation for Android](https://yalantis.com/blog/how-we-developed-the-guillotine-menu-animation-for-android/) -- 如何实现铡刀菜单动画?
 * [Android Canvas drawText实现中文垂直居中](http://blog.csdn.net/hursing/article/details/18703599)
+* [Twitter's like animation in Android - alternative](http://frogermcs.github.io/twitters-like-animation-in-android-alternative/)
 
 ### Layout
 * [Quick return with CoordinatorLayout](https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1)
+* [Mastering the Coordinator Layout](http://saulmm.github.io/mastering-coordinator/)
+
+### EditText/TextView
+* [Making EditTexts with links both clickable and editable](http://blog.danlew.net/2015/12/14/making-edittexts-with-links-both-clickable-and-editable/)
+* [Creating custom Text Selection actions with ACTION_PROCESS_TEXT](https://medium.com/google-developers/custom-text-selection-actions-with-action-process-text-191f792d2999?linkId=20000023#.ukos4ejww)
+* [Beware EditText on API 21](http://blog.danlew.net/2015/10/12/beware-edittext-on-api-21/)
+
+### Android Design
+* [Designing Android Apps For Vision Impaired Users](https://www.novoda.com/blog/designing-android-apps-with-vision-impaired-users-in-mind/)
+* [The Fabulous Goes Material](http://androiduiux.com/2015/10/20/the-fabulous-goes-material/)
+* [Login experiences that don't suck](https://www.novoda.com/blog/login-experiences-that-dont-suck/)
+* [Why would I want to fitsSystemWindows?](https://medium.com/google-developers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec?linkId=19685562#.en41g4ekt)
 
 ### 其他
 * [Exploring Chrome Customs Tabs on Android](https://medium.com/ribot-labs/exploring-chrome-customs-tabs-on-android-ef427effe2f4)
+* [Chrome custom tabs](http://android-developers.blogspot.com/2015/09/chrome-custom-tabs-smooth-transition.html)
+* [Vectors For All (almost)](https://blog.stylingandroid.com/vectors-for-all-almost/)
 
 ## ActionBar / ToolBar
 * [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
@@ -207,6 +244,8 @@ library for Android
 * [How to make onActivityResult get called on Nested Fragment](http://inthecheesefactory.com/blog/how-to-fix-nested-fragment-onactivityresult-issue/en)
 * [ViewPager Without Fragments](https://www.bignerdranch.com/blog/viewpager-without-fragments/)
 * [让多个Fragment 切换时不重新实例化](http://www.yrom.net/blog/2013/03/10/fragment-switch-not-restart/)
+* [Fragment transitions with shared elements](https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.i9cg4cryg)
+* [Sending objects to Fragment; Naive question: is it sent by value?!](https://medium.com/@hamidgh/sending-objects-to-fragment-naive-question-is-it-sent-by-value-ddaaa19fa42d#.bbv1i4i4y)
 
 ## Services
 * [Services](http://developer.android.com/guide/components/services.html)
@@ -223,7 +262,7 @@ library for Android
 * [Notifications](https://guides.codepath.com/android/Notifications)
 
 ## Data Binding
-* **Data Binding - Styling Android** [Part 1](https://blog.stylingandroid.com/data-binding-part-1/) [Part 2](https://blog.stylingandroid.com/data-binding-part-2/) [Part 3](https://blog.stylingandroid.com/data-binding-part-3/)
+* **Data Binding - Styling Android** [Part 1](https://blog.stylingandroid.com/data-binding-part-1/) [Part 2](https://blog.stylingandroid.com/data-binding-part-2/) [Part 3](https://blog.stylingandroid.com/data-binding-part-3/)[Part 4](https://blog.stylingandroid.com/data-binding-part-4/)[Part 5](https://blog.stylingandroid.com/data-binding-part-5/)
 
 ## Runtime Permissions
 * [Runtime Permissions: Best Practices](http://www.captechconsulting.com/blogs/runtime-permissions-best-practices-and-how-to-gracefully-handle-permission-removal)
@@ -245,8 +284,37 @@ library for Android
 * [Tinting drawables](http://andraskindler.com/blog/2015/tinting_drawables/)
 * [The truth about Preventative Optimizations](https://medium.com/google-developers/the-truth-about-preventative-optimizations-ccebadfd3eb5)
 * [Don't Interrupt the User's Flow](http://hannesdorfmann.com/android/dont-interrupt-user-flow/)
+* [Lazy Loading Dex files](https://medium.com/@Macarse/lazy-loading-dex-files-d41f6f37df0e#.w72504r2g)
+* [Having Trouble Focusing? A Primer on Focus in Android](https://www.novoda.com/blog/do-you-even-focus-bro/)
+* [Exploring Meaningful Motion on Android](https://medium.com/ribot-labs/exploring-meaningful-motion-on-android-1cd95a4bc61d#.j4p4u3sh7)
+
+## Kotlin lambdas
+* [Unleash functional power on Android (I): Kotlin lambdas](http://antonioleiva.com/functional-programming-android-kotlin-lambdas/)
+* [Functional Android (II): Collection operations in Kotlin](http://antonioleiva.com/collection-operations-kotlin/)
+* [AO(sp)y Episode 2 - Lambdas](http://kiranrao.in/blog/2015/09/06/ao-spy-2/)
+* [10 reasons (plus one) to try Kotlin on Android](https://plus.google.com/+OmarMiatello/posts/jBCuqFJ8gnx)
+* [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
+* [Converting Plaid to Kotlin: Lessons learned (Part 1)](http://antonioleiva.com/plaid-kotlin-1/)
+* [Converting Plaid to Kotlin: Lessons learned (Part 2)](http://antonioleiva.com/plaid-kotlin-2/)
+
+## Dependency Injection
+* [Dependency Injection on Android](http://tech.just-eat.com/2015/10/26/dependency-injection-on-android/)
+* [Dependency Management for Android Libraries](http://johnpetitto.com/android-lib-dependency-management/)
+
+## Rumtime Permissions
+* [Runtime Permissions: Best Practices](http://www.captechconsulting.com/blogs/runtime-permissions-best-practices-and-how-to-gracefully-handle-permission-removal)
+* [Sharing files on Android in a world with runtime permissions](http://blog.danlew.net/2015/10/07/sharing-files-on-android-in-a-world-with-runtime-permissions/)
+* [Runtime Permissions, Files, and ACTION_SEND](https://commonsware.com/blog/2015/10/07/runtime-permissions-files-action-send.html)
+* [RxPermissions](https://github.com/tbruyelle/RxPermissions)
+
+## Android M
+* [Intent Resolving in Android M](https://medium.com/google-developer-experts/intent-resolving-in-android-m-c17d39d27048#.a3fd8rrbu)
+* [Android M: What’s that “Broadcast Tile” for?](https://medium.com/@kcoppock/android-m-what-s-that-broadcast-tile-for-d1cd3a477a5f#.kun6dij48)
+* [Implementing Android Marshmallow Direct Share](https://www.bignerdranch.com/blog/implementing-android-marshmallow-direct-share/)
 
 ## 开发框架
+* [Creating and Publishing an Android Library](https://medium.com/android-news/the-complete-guide-to-creating-an-android-library-46628b7fc879#.sz8py9whb)
+
 ### [Retrofit](https://github.com/square/retrofit)
 * [Retrofit官方文档](http://square.github.io/retrofit/)
 * [Retrofit开发指南](https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97) 中文翻译
@@ -258,6 +326,7 @@ library for Android
 * [How To Use Retrofit Library In Your Android App](http://simpledeveloper.com/how-to-use-retrofit-library-in-android/)
 * [Retrofit – Using Jackson JSON Conversion](http://kdubblabs.com/java/retrofit-by-square/retrofit-using-jackson-json-conversion/) 使用Jackson解析
 * [Simple HTTP with Retrofit 2](https://speakerdeck.com/jakewharton/simple-http-with-retrofit-2-droidcon-nyc-2015)
+* [Retrofit 2 — Upgrade Guide from 1.9](https://futurestud.io/blog/retrofit-2-upgrade-guide-from-1-9)
 
 ### [Picasso](https://github.com/square/picasso)
 * [Picasso官方文档](http://square.github.io/picasso/)
@@ -278,6 +347,7 @@ library for Android
 ### [OkHTTP](https://github.com/square/okhttp)
 * [Android Networking I: OkHttp, Volley and Gson](https://medium.com/@sotti/android-networking-i-okhttp-volley-and-gson-72004efff196) *[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0720/3209.html)]
 * [Android OkHttp完全解析](http://blog.csdn.net/lmj623565791/article/details/47911083)
+* [Effective OkHttp](http://omgitsmgp.com/2015/12/02/effective-okhttp/)
 
 ### [EventBus](https://github.com/greenrobot/EventBus)
 * [Quick Tip: How to Use the EventBus Library](http://code.tutsplus.com/tutorials/quick-tip-how-to-use-the-eventbus-library--cms-22694)
@@ -296,6 +366,7 @@ library for Android
 ### [Realm](https://realm.io/)
 * [Realm Java 0.80.3](https://realm.io/docs/java/latest/) -- Realm英文文档(Java)
 * [Realm中文文档](http://randy.party/2014/10/17/realm-doc-in-chinese.html)
+* [Why I Don't Use Realm Anymore](http://johnpetitto.com/no-more-realm/)
 
 ### [greenDao](https://github.com/greenrobot/greenDAO)
 * [greenDao官方文档](http://greendao-orm.com/)
@@ -323,6 +394,20 @@ library for Android
 * [RxJava Code Review Part 1](http://artemzin.com/blog/rxjava-code-review-part-1/)
 * [A Note About the Warmth of the Share and Replay Operators](http://blog.kaush.co/2015/07/11/a-note-about-the-warmth-share-operator/)
 * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+* [How to upgrade to RxAndroid 1.0](http://blog.danlew.net/2015/09/01/how-to-upgrade-to-rxandroid-10/)
+* [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
+* [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
+* [Why use Observable.create() and not just inherit from Observable?](http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/)
+* [Advanced RxJava ConnectableObservables (part 1)](http://akarnokd.blogspot.com/2015/10/connectableobservables-part-1.html)
+* [Getting Started with RxJava and Android ](http://www.captechconsulting.com/blogs/getting-started-with-rxjava-and-android)
+* [Debugging RxJava on Android](http://fernandocejas.com/2015/11/05/debugging-rxjava-on-android/)
+* [RxJava’s Side Effect Methods](http://www.grokkingandroid.com/rxjavas-side-effect-methods/)
+* [Improving UX with RxJava](https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.udwt5kfbk)
+* [RxJava Operators - toList()](http://tomstechnicalblog.blogspot.com/2015/11/rxjava-operators-tolist.html)
+* [The new Completable API (part 1)](http://akarnokd.blogspot.hu/2015/12/the-new-completable-api-part-1.html)
+* [How to think about Subjects in RxJava (Part 1)](https://tech.instacart.com/how-to-think-about-subjects-part-1/)
+* [Rx glitches aren't actually a problem](http://staltz.com/rx-glitches-arent-actually-a-problem.html)
+* [Crunching RxAndroid — Part 5](https://medium.com/crunching-rxandroid/crunching-rxandroid-part-5-1dd5fba89058#.fw7kese8v)
 
 ### [Dagger](https://github.com/square/dagger)
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
@@ -343,12 +428,23 @@ library for Android
 * [Parameterized testing with Robolectric](http://www.jayway.com/2015/03/19/parameterized-testing-with-robolectric/)
 * [Android Tools Project Site -- Unit testing support](https://sites.google.com/a/android.com/tools/tech-docs/unit-testing-support)
 * [Reliable API testing for Android with Retrofit and Mockito](http://www.mdswanson.com/blog/2013/12/16/reliable-android-http-testing-with-retrofit-and-mockito.html)
-* [Using Espresso for Easy UI Testing](http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/)
 * [Activity测试](http://www.devtf.cn/?p=979)
+* [Tutorial: Sustainable Android Tests with Page Objects](https://newcircle.com/s/post/1772/2015/10/16/tutorial-sustainable-android-tests-with-page-objects)
+* [Sharing code between unit tests and instrumentation tests on Android](http://blog.danlew.net/2015/11/02/sharing-code-between-unit-tests-and-instrumentation-tests-on-android/)
+* [World-Class Testing Development Pipeline for Android - Part 1.](http://blog.karumi.com/world-class-testing-development-pipeline-for-android/)
+* [World-Class Testing Development Pipeline for Android - Part 2.](http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-2/)
+* [Leveraging product flavors in Android Studio for hermetic testing
+](http://android-developers.blogspot.com/2015/12/leveraging-product-flavors-in-android.html?linkId=19576836)
+* [How to mock dependencies in Unit, Integration and Functional tests; Dagger, Robolectric and Instrumentation](http://artemzin.com/blog/how-to-mock-dependencies-in-unit-integration-and-functional-tests-dagger-robolectric-instrumentation/)
+* [Test before integrate](https://medium.com/@orhanobut/test-before-integrate-e713090070d6#.kej2p32js)
+* [Testing Tricks #2: Finding UI Views](http://www.adavis.info/2015/12/testing-tricks-2-finding-ui-views.html)
 
-## Thread/Process
-* [A journey on the Android Main Thread - PSVM](https://corner.squareup.com/2013/10/android-main-thread-1.html)
-* [A journey on the Android Main Thread - Lifecycle bits](https://corner.squareup.com/2013/12/android-main-thread-2.html)
+### Espresso
+* [Using Espresso for Easy UI Testing](http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/)
+* [Testing Intents With Espresso Intents](http://michaelevans.org/blog/2015/09/15/testing-intents-with-espresso-intents/)
+* [Espresso: Save and restore state](http://blog.sqisland.com/2015/10/espresso-save-and-restore-state.html)
+* [Testing a sorted list with Espresso](http://blog.egorand.me/testing-a-sorted-list-with-espresso/)
+* [Mock Application in Espresso for Dependency Injection](http://blog.sqisland.com/2015/12/mock-application-in-espresso.html)
 
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
@@ -364,9 +460,11 @@ library for Android
 * [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
 * [Wutson: Exploring Design And Development Workflows](http://novoda.com/blog/londroid-wutson/)
 * [Android视频录制app解决方案汇总](https://www.zybuluo.com/lichangadd/note/148109)
+* [Annotations to support your contracts](https://medium.com/sebs-top-tips/annotations-to-support-your-contracts-609ff259d5df#.fd8yltv8k)
 
 ## 设计
 * [五款app原型设计工具对比](http://get.jobdeer.com/7827.get)
+* [Effective Prototyping](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0#.sq736uuvn)
 
 ## Architecting(MVC,MVP,MVVM)
 * [MVP for Android: how to organize the presentation layer](http://antonioleiva.com/mvp-android/)
@@ -381,6 +479,14 @@ library for Android
 * [Flux Architecture on Android](http://lgvalle.github.io/2015/08/04/flux-architecture/) **[[中文版](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0816/3311.html)]**
 * [Approaching Android with MVVM](https://medium.com/ribot-labs/approaching-android-with-mvvm-8ceec02d5442)
 * [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.7931inhi1)
+* [archi](https://github.com/ivacf/archi)
+  *Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.*
+* [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid)
+ *This sample project shows how to apply MVP and Clean architecture on an Android app*
+* [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.7zo7f6vlz)
+* [A reactive MVP approach to the Plaid app (PART 1) ](http://hannesdorfmann.com/android/plaid-refactored-1/)
+* [A reactive MVP approach to the Plaid app (PART 2)](http://hannesdorfmann.com/android/plaid-refactored-2/)
+* [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.wg5yl41dn)
 
 ## Android Studio/开发工具/AS插件/Gradle
 * [推荐几个非常有用的工具](http://stormzhang.com/android/2015/05/26/android-tools/)
@@ -413,6 +519,24 @@ library for Android
 * [Vysor--Chrome的一个插件，可以做到在电脑上操作Android手机，增强生产力的神器](http://www.vysor.io/)
 * [Don't use dynamic versions for your dependencies](http://blog.danlew.net/2015/09/09/dont-use-dynamic-versions-for-your-dependencies/)
 * [Android Development Tidbits // No. 1](http://willowtreeapps.com/blog/android-development-tidbits-no-1/)
+* [LayerVisualizer](https://github.com/romannurik/LayerVisualizer)
+* [RxMarbles](http://rxmarbles.com/)
+* [Getting Started: Configuring Mac for Android](http://coreylatislaw.com/getting-started-configuring-mac-for-android/)
+* [Android Feature Graphic Generator](http://www.norio.be/android-feature-graphic-generator/)
+* [Optimizing Android bytecode with Redex](https://code.facebook.com/posts/1480969635539475?refid=8&_ft_=qid.6200742327944805904:mf_story_key.6249203789055394671:eligibleForSeeFirstBumping.1&__tn__=H)
+* [screenshot-tests-for-android](http://facebook.github.io/screenshot-tests-for-android/)
+* [Dexcount Gradle Plugin](https://github.com/KeepSafe/dexcount-gradle-plugin)
+* [Circle CI](https://circleci.com/)
+* [Continuous Integration on Android: Why we ditched Jenkins for Circle CI](https://infinum.co/the-capsized-eight/articles/continuous-integration-on-android-why-we-ditched-jenkins-for-circle-ci?utm_content=buffer406d5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
+* [Android Build Speed Up. ver English](https://medium.com/android-news/android-build-speed-up-ver-english-c76890aa610#.s3rs5ztt2)
+* [How to have debug, beta and prod builds installed at the same time](https://medium.com/yplan-eng/how-to-have-debug-beta-and-prod-builds-installed-at-the-same-time-696ec4c76211#.fquicgjf9)
+* [How to Analyze & Manage Memory on Android Like a Boss](https://acadgild.com/blog/analyze-manage-android-devices-memory-allocation-through-ddms-mat/)
+* [Create Useful .proguard Files For Your Project](https://proguard.herokuapp.com/)
+* [Gradle tips & tricks to survive the zombie apocalypse](https://medium.com/@cesarmcferreira/gradle-tips-tricks-to-survive-the-zombie-apocalypse-3dd996604341#.d3kwyje9l)
+* [Efficiency and fun from using ADB Shell, Part 1](https://ar-g.github.io/ADB-Shell-Part-1/)
+
+### Lint
+* [Help developers with custom Lint rules](http://jeremie-martinez.com/2015/12/15/custom-lint-rules/)
 
 ## 经验总结
 * [Android学习之路--stormzhang](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
@@ -436,9 +560,18 @@ library for Android
 * [Develop Maintainable Apps](http://www.slideshare.net/AnnyceDavis/develop-maintainable-apps-droidcon-2015)
 * [微信ANDROID客户端-会话速度提升70%的背后](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe)
 * [Modeling my Android domain layer](http://panavtec.me/modeling-my-android-domain-layer/)
+* [Stuff I Learned at Droidcon NYC](https://medium.com/@nicksantos/stuff-i-learned-at-droidcon-nyc-66d84b47c6a1#.apo22xw0q)
+* [Things I did at Droidcon London](https://medium.com/@hitherejoe/things-i-did-at-droidcon-london-3fa45d093f0a#.kacbp4l7y)
+* [Top resources to learn Android](https://www.simform.com/blog/top-resources-to-learn-android)
+* [Android Development Culture. The Document. #qualitymatters](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
+* [See the Truth on Android](http://jeremie-martinez.com/2015/11/05/truth-android/)
+* [Taking Command of Android Development](https://medium.com/@theMikhail/take-command-of-android-development-9411af8cf571#.sds1cn7df)
 
 ## Java
 * [Java反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
+
+### JSON
+* [Hi Performance JSON Parsing in Android](http://www.donnfelker.com/hi-performance-json-parsing-in-android/)
 
 ## [StackOverflow](http://stackoverflow.com/questions/tagged/android)
 * [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/a/2025541/4470672)
@@ -455,3 +588,6 @@ library for Android
 * [How do I find out if the GPS of an Android device is enabled?](http://stackoverflow.com/a/843716/4470672)
 * [Renaming modules in Android Studio?](http://stackoverflow.com/a/27892670/4470672)
 * [RecyclerView onItemClick](http://stackoverflow.com/a/26196831/4470672)
+
+## 杂谈
+* [Will the Real Android Please Stand Up](https://realm.io/news/will-the-real-android-please-stand-up/)
