@@ -408,6 +408,7 @@ library for Android
 * [How to think about Subjects in RxJava (Part 1)](https://tech.instacart.com/how-to-think-about-subjects-part-1/)
 * [Rx glitches aren't actually a problem](http://staltz.com/rx-glitches-arent-actually-a-problem.html)
 * [Crunching RxAndroid — Part 5](https://medium.com/crunching-rxandroid/crunching-rxandroid-part-5-1dd5fba89058#.fw7kese8v)
+* [Subscribe It While It's Hot: Cached Rest Requests With RxJava](http://fedepaol.github.io/blog/2016/01/01/cached-rest-requests-with-rxjava/)
 
 ### [Dagger](https://github.com/square/dagger)
 * [Dagger 源码解析](https://github.com/android-cn/android-open-project-analysis/tree/master/dagger)
@@ -438,6 +439,7 @@ library for Android
 * [How to mock dependencies in Unit, Integration and Functional tests; Dagger, Robolectric and Instrumentation](http://artemzin.com/blog/how-to-mock-dependencies-in-unit-integration-and-functional-tests-dagger-robolectric-instrumentation/)
 * [Test before integrate](https://medium.com/@orhanobut/test-before-integrate-e713090070d6#.kej2p32js)
 * [Testing Tricks #2: Finding UI Views](http://www.adavis.info/2015/12/testing-tricks-2-finding-ui-views.html)
+* [Handling Android runtime permissions in UI tests](https://medium.com/@hitherejoe/handling-android-runtime-permissions-in-ui-tests-981f9dc11a4e#.mn7hyiqd9)
 
 ### Espresso
 * [Using Espresso for Easy UI Testing](http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/)
@@ -445,6 +447,7 @@ library for Android
 * [Espresso: Save and restore state](http://blog.sqisland.com/2015/10/espresso-save-and-restore-state.html)
 * [Testing a sorted list with Espresso](http://blog.egorand.me/testing-a-sorted-list-with-espresso/)
 * [Mock Application in Espresso for Dependency Injection](http://blog.sqisland.com/2015/12/mock-application-in-espresso.html)
+* [Reliable functional tests with Espresso and Dagger](http://blog.egorand.me/reliable-functional-tests-with-espresso-and-dagger/)
 
 ## 其他
 * [THINGS YOU MAY NOT KNOW: TOOLS ATTRIBUTES](http://www.randomlytyping.com/blog/2015/6/17/things-you-may-not-know-about-tools-attributes) -- XML: `tools`属性
@@ -534,6 +537,8 @@ library for Android
 * [Create Useful .proguard Files For Your Project](https://proguard.herokuapp.com/)
 * [Gradle tips & tricks to survive the zombie apocalypse](https://medium.com/@cesarmcferreira/gradle-tips-tricks-to-survive-the-zombie-apocalypse-3dd996604341#.d3kwyje9l)
 * [Efficiency and fun from using ADB Shell, Part 1](https://ar-g.github.io/ADB-Shell-Part-1/)
+* [Inspecting your multidex APK](https://medium.com/@BorisFarber/inspecting-your-apk-f53fb90136da#.19laqulbu)
+* [Android Studio Tips and Tricks](http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/)
 
 ### Lint
 * [Help developers with custom Lint rules](http://jeremie-martinez.com/2015/12/15/custom-lint-rules/)
@@ -591,3 +596,7 @@ library for Android
 
 ## 杂谈
 * [Will the Real Android Please Stand Up](https://realm.io/news/will-the-real-android-please-stand-up/)
+
+## Android开源App
+* [ribot](https://github.com/ribot/ribot-app-android)
+
