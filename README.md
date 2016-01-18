@@ -6,7 +6,7 @@ Android开发相关的博客、文章、教程
 --- | --- | ---
 Android Developers Blog | [http://android-developers.blogspot.com/](http://android-developers.blogspot.com/) | 官方Blog
 Android Weekly | [http://androidweekly.net/](http://androidweekly.net/) | Android周刊，支持邮箱订阅，随时了解Android Dev最新前沿，每周一更新
-Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) | Android中文周刊，暂时只支持RSS订阅，每周一更新
+Android Weekly 中文版 | [http://androidweekly.cn/](http://androidweekly.cn/) | Android中文周刊，每周一更新
 [Code Path](https://github.com/codepath/android_guides/wiki) | [https://github.com/codepath/android_guides/wiki](https://github.com/codepath/android_guides/wiki) | 教程通俗易懂
 [Android开发技术前线](https://github.com/bboyfeiyu/android-tech-frontier) | [http://www.devtf.cn/](http://www.devtf.cn/) | 一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 [Styling Android](https://blog.stylingandroid.com/) | [https://blog.stylingandroid.com/](https://blog.stylingandroid.com/) | 专注Android Design实现
@@ -31,7 +31,7 @@ TechnoTalkative | [http://www.technotalkative.com/](http://www.technotalkative.c
 Cyril Mottier | [http://cyrilmottier.com/](http://cyrilmottier.com/) | Quora上很推崇的一个开发者，但是现在博客写的不勤了
 Ravi Tamada | [http://www.androidhive.info/](http://www.androidhive.info/) | 博文非常基础，非常详细，适合初学者
 [Alex Lockwood](https://github.com/alexjlockwood) |[http://www.androiddesignpatterns.com/](http://www.androiddesignpatterns.com/) | 
-|[http://fragmentedpodcast.com/](http://fragmentedpodcast.com/)|
+ |[http://fragmentedpodcast.com/](http://fragmentedpodcast.com/)|
 
 ## 国内开发者
 名称 | Blog地址 | 说明
@@ -327,6 +327,7 @@ library for Android
 * [Retrofit – Using Jackson JSON Conversion](http://kdubblabs.com/java/retrofit-by-square/retrofit-using-jackson-json-conversion/) 使用Jackson解析
 * [Simple HTTP with Retrofit 2](https://speakerdeck.com/jakewharton/simple-http-with-retrofit-2-droidcon-nyc-2015)
 * [Retrofit 2 — Upgrade Guide from 1.9](https://futurestud.io/blog/retrofit-2-upgrade-guide-from-1-9)
+* [How to make HTTP calls on Android with Retrofit 2](https://medium.com/@shelajev/how-to-make-http-calls-on-android-with-retrofit-2-cfc4a67c6254#.5do4t2pfs)
 
 ### [Picasso](https://github.com/square/picasso)
 * [Picasso官方文档](http://square.github.io/picasso/)
@@ -440,6 +441,7 @@ library for Android
 * [Test before integrate](https://medium.com/@orhanobut/test-before-integrate-e713090070d6#.kej2p32js)
 * [Testing Tricks #2: Finding UI Views](http://www.adavis.info/2015/12/testing-tricks-2-finding-ui-views.html)
 * [Handling Android runtime permissions in UI tests](https://medium.com/@hitherejoe/handling-android-runtime-permissions-in-ui-tests-981f9dc11a4e#.mn7hyiqd9)
+* [Metronome: A Fully Unit-Tested Rx-Based Reference Application](https://medium.com/@cainwong/metronome-a-fully-unit-tested-rx-based-reference-application-6aaeba0a9c1a#.rum7rn2zv)
 
 ### Espresso
 * [Using Espresso for Easy UI Testing](http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/)
